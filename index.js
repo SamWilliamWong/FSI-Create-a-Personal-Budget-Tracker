@@ -1,5 +1,5 @@
-let weeklyExpenses = 0
-let monthlyExpenses = 0
-let annualExpenses = 0
+let weeklyExpenses = 30
+let monthlyExpenses = 400
+let annualExpenses = 250
 
 // Your Code Here
